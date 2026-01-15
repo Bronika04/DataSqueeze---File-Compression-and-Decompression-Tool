@@ -1,0 +1,217 @@
+mpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable cmpressed file name: input.compress
+File compressed successfully!
+
+=== COMPRESSION STATISTICS ===
+Original Size: 91 bytes
+Compressed Size: 490 bytes
+Compression Ratio: 5.3846
+Space Saved: -438.46%
+==============================
+PS C:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA> cd "c:\Users\Dell\OneDrive\Desktop\projects\File_Compression_Decompression\Aradhya_DAA\" ; if ($?) { g++ code3.cpp -o code3 } ; if ($?) { .\code3 }
+Text File Compression using Huffman + LZ77
+==========================================
+1. Compress a file
+2. Decompress a file
+Enter your choice (1-2): 2
+Enter compressed file name: input.compress
+Enter output file name: output.txt
+File decompressed successfully!
+Check 'output.txt' for the readable c
