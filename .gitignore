@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+*.class
+*.bin
+
+# Generated compression files
+*.compressed
+*.decompressed
+*.compress
+
+# Editor & OS files
+.vscode/
+Thumbs.db
