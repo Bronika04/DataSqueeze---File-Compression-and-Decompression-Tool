@@ -1,10 +1,10 @@
 # DataSqueeze - File Compression & Decompression App
 
 ### GUI Interface
-![GUI Screenshot](images/img1.png)
+![GUI Screenshot](Images/Img1.png)
 
 ### Compression Output (CMD)
-![Compression Output](images/img2.png)
+![Compression Output](Images/Img2.png)
 
 ## Introduction
 This project implements a **Text File Compression and Decompression System** using a combination of **LZ77** and **Huffman Coding** algorithms.  
